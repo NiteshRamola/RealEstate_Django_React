@@ -2,7 +2,7 @@
 
 * This is a large project that shows how to implement a real estate application with a variety of different features.
 
-![DEMO](./ProjectScreenshots/ListingsPage.png)
+![DEMO](./ProjectsScreenshots/ListingsPage.png)
 
 # Features
 
